@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 39,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 39,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 41,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 41,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 47,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 47,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 56,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 56,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 55,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 55,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 51,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 51,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 52,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 52,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 59,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 59,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 59,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 59,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 63,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/values-ja/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 63,
+                        "endOffset": 632
+                    }
+                }
+            }
+        ]
+    }
+]

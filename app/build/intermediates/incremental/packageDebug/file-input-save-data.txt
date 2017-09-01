@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Sep 01 12:56:12 JST 2017
+2.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_962ae26ab20e2b4f68241aa7617a015164561a66
+2.set=ANDROID_RESOURCE
+4.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_56eefc03321cdb875c4795ed29bb03bf8624c41b/classes.dex
+5.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_/res/layout/list_row.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_56eefc03321cdb875c4795ed29bb03bf8624c41b
+3.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_962ae26ab20e2b4f68241aa7617a015164561a66/classes.dex
+3.set=DEX
+1.base=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=DEX

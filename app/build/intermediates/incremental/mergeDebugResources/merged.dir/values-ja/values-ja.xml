@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogcatViewer</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_update">更新</string>
+    <string name="help_save">SD保存ファイル名</string>
+    <string name="menu_startservice">ログ取得サービス開始</string>
+    <string name="menu_stopservice">ログ取得サービス停止</string>
+    <string name="save_complete">ログを保存しました</string>
+    <string name="save_failed">ログの保存に失敗しました</string>
+    <string name="service_started">ログ取得サービスを開始しました</string>
+    <string name="service_stopped">ログ取得サービスを停止しました</string>
+    <string name="service_warning">ログ取得サービスが開始されていません！</string>
+</resources>

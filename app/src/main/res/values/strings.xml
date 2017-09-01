@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogcatViewer</string>
+    <string name="help_save">Log filename</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_update">Update</string>
+    <string name="menu_startservice">Start Logcat service</string>
+    <string name="menu_stopservice">Stop Logcat service</string>
+    <string name="save_complete">Log file saved successfully.</string>
+    <string name="save_failed">Saving log file failed.</string>
+    <string name="service_started">Logcat service started.</string>
+    <string name="service_stopped">Logcat service stopped.</string>
+    <string name="service_warning">Logcat service is not begun.</string>
+</resources>

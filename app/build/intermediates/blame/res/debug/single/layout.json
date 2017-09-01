@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/LogcatViewer/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/Users/sonworks/Documents/LogcatViewer/app/src/main/res/layout/list_row.xml"
+    }
+]
